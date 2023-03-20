@@ -12,5 +12,14 @@ main{
 }
 
 .box{
-  text-align: center;
+  padding: 20px 30px;
+  border: 2px solid rgb(171, 135, 250);
+  border-radius: 20px;
+  box-shadow: 0 0 5px rgb(171, 135, 250);
+  transition: all .5s;
+}
+
+.box:hover{
+  transform: scale(1.5);
+  box-shadow: 0 0 20px rgb(171, 135, 250);
 }
