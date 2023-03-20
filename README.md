@@ -8,3 +8,10 @@ va applicato uno sconto del 40% per gli over 65.
 L’output del prezzo finale va messo fuori in forma umana (con massimo due decimali, per indicare centesimi sul prezzo). Questo richiederà un minimo di ricerca.
 
 
+## Sviluppo
+- variabile con prompt km da percorrere
+- variabile con prompt età passeggero
+- inserire const con prezzo al km
+- inserire condizioni per lo sconto minorenni
+- inserire condizioni per lo sconto over 65
+
