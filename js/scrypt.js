@@ -16,6 +16,10 @@ if (età < 18){
   totale = parziale;
 }
 
+let message = `
+Il costo totale del viaggio sarà di ${totale}€
+`
 
+document.getElementById('output').innerHTML = message;
 
 console.log(km, età, parziale, totale);

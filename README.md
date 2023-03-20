@@ -14,4 +14,5 @@ L’output del prezzo finale va messo fuori in forma umana (con massimo due deci
 - inserire const con prezzo al km
 - inserire condizioni per lo sconto minorenni
 - inserire condizioni per lo sconto over 65
+- output con massimo due decimali
 
