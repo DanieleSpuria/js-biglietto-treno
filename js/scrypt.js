@@ -17,7 +17,7 @@ if (età < 18){
 }
 
 let message = `
-Il costo totale del viaggio sarà di ${totale}€
+Il costo totale del viaggio sarà di ${totale.toFixed(2)}€
 `
 
 document.getElementById('output').innerHTML = message;
